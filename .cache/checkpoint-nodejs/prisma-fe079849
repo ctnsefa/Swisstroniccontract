@@ -1,0 +1,30 @@
+{
+  "last_reminder": 0,
+  "cached_at": 1704656540803,
+  "version": "5.7.1",
+  "cli_path": "/root/.nvm/versions/node/v21.5.0/lib/node_modules/@kenshi.io/unchained/node_modules/.bin/prisma",
+  "output": {
+    "product": "prisma",
+    "previous_version": "5.7.1",
+    "checkpoint_version": 4,
+    "local_timestamp_without_timezone": "2024-01-07T19:42:20Z",
+    "current_version": "5.7.1",
+    "current_release_date": 1702927178,
+    "client_event_id": "9b54ba3e-a3ce-4a9d-9fcb-1fac932918fe",
+    "current_download_url": "https://github.com/prisma/prisma",
+    "package": "prisma",
+    "release_tag": "latest",
+    "install_command": "npm install --save-dev prisma",
+    "schema_providers": [
+      "postgresql"
+    ],
+    "schema_preview_features": [],
+    "schema_generators_providers": [
+      "prisma-client-js"
+    ],
+    "current_changelog_url": "https://github.com/prisma/prisma",
+    "outdated": false,
+    "project_website": "https://prisma.io",
+    "alerts": []
+  }
+}

@@ -1,0 +1,14 @@
+log: info
+name: cetinsefa
+lite: true
+gossip: 5
+rpc:
+  ethereum:
+    - https://ethereum.publicnode.com
+    - https://eth.llamarpc.com
+    - wss://ethereum.publicnode.com
+    - https://eth.rpc.blxrbdn.com
+database:
+  url: mongodb+srv://<user>:<password>@<url>/?retryWrites=true&w=majority
+  name: unchained
+secretKey: 7sZHSUqabLns8k6G9ct3KM4q2MSSBvFyDCr47BMxUnvt
